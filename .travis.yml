@@ -1,0 +1,14 @@
+languade: node_js
+node_js:
+  - "10"
+
+install:
+  - npm install
+
+script:
+  - npm run build
+
+notifications:
+  email:
+    on_failure: change
+    on_success: change

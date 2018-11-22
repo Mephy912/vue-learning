@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Mephy912/vue-learning.svg?branch=master)](https://travis-ci.org/Mephy912/vue-learning)
 # vue-learning
 
 ## Project setup
